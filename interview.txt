@@ -1,0 +1,14 @@
+tell me about yourself
+----------------------------
+i started my carrer as software test engineer  in octoban technologies. i have 3.5 years experience in both manual and automation testing.
+my responsiblity  is to understand the bussiness reqiurement specification  and high level scenarios and converting them into test cases and automation scripts if required.
+and execution of test cases and reporting the defects to devloper if any and get them fixed.
+i have experience in functional,automation,regeression,smoke sanity testing. and i also have experience in back end testing using postman and restassured.
+
+
+selinium
+_____________________________________
+
+1)1. Difference in driver.get() and driver.navigate().to()?
+
+ans:-   

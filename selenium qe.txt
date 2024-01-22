@@ -1,0 +1,106 @@
+Selenium Questions
+
+1.	What is selenium 3.0?
+2.	What is selenium 4.0?
+3.	Explain selenium Webdriver architechture.
+4.	How many locators are there?which one is most preferable.
+5.	Methods of Webdriver.
+6.	Methods of WebElement.
+7.	How do you find an element?
+8.	Return type of findElement and  findElements
+9.	Advantages and disadvantages of automation
+10.	What is selenium RC and selenium IDE
+11.	What is current version of selenium?
+12.	Difference between absolute and relative xPath.
+13.	What is synchronization in selenium?
+14.	How to handle dropdowns?
+15.	Different types of waits in selenium?
+16.	How to handle dynamic web tables?
+17.	How to handle multiple tabs in browser?
+18.	How to handle frames?
+19.	How to handle alert and confirmation popup?
+20.	How to handle file download and file upload popup?
+21.	How to handle window popup?
+22.	How to resize a browser?
+23.	What is actions class? What are operations we can perform by using actions class?
+24.	How to take screen shot of an application?
+25.	What is JavaScriptExecutor?
+26.	How to scroll to particular element?
+27.	How to read data from excel?
+28.	How to write data to excel?
+29.	What is TestNg ? Why is it used? What are the annotations of TestNg
+30.	Can we generate HTML report in eclipse?
+31.	Can we run group of test cases using TestNG?
+32.	Can you write a sample  for parallel execution  in TestNG.xml file
+33.	Diff b/w Assert and verify
+34.	Difference between @Beforemethod and @Beforetest?
+35.	Have you run tests in parallel?
+36.	How and why will you group your Testcases using TestNG?
+37.	How can i do priority based testing using webDriver 
+38.	How do u execute testcases using testng
+39.	How do u run batch execution, which one ur using for that
+40.	How do you execute two or 5 testcases alone in testNGsuite.
+41.	How do you use @parameter Annotation in TestNg ?
+42.	How do you use load elements through properties file and run using TestNG 
+43.	How does the compilation happen for the TestNG classes?
+44.	How to do execution of second method after first method method exectuion only without giving priority
+45.	How to execute scripts parallel using testng?
+46.	How to fail the TC in Test Automation report, though the TC is passed means it should be failed in report?
+47.	How to generate reports
+48.	How will you execute the failed test scripts ?
+49.	How will you generate the report in selenium? which API u use?
+50.	How will you prioritise test methods?
+51.	What are the different attributes for @Test annotation?
+52.	What are the parameters used by @Test?
+53.	What is @test annotation?
+54.	What is advantages of using testng, why can't we run selenium code directly?
+55.	What is assert true?
+56.	What is data driven test and how  will you do it without external file
+57.	What is dataprovider why we use dataprovider
+58.	What is Parameterizations ?
+59.	What is test NG listner?
+60.	What annotations u have worked on.
+61.	What is the difference between testing and junit?
+62.	What is the skeleton of testng.xml? What all does/can it contain?
+63.	What method you used for high level testing(smoke)? Answer assertmethod
+64.	When tests run in parallel how will Webdriver know that it has to work on a particular Browser window only?
+65.	Diff between pagefactory n pageobject model
+66.	What is POM? Explain about POM.
+67.	What do you mean by findby annotation
+68.	How are you maintaining the objects in your project.
+69.	How you are declaring the webelement in Page Object Model(POM) ?
+70.	What are the advantages of pom frame work in selenium
+71.	What are the things you stored in PageFactory ?  Why 
+72.	What is apache poi and page factory designed technique
+73.	what is pagefactory and why we use page factory
+74.	what is pagefactory designed technique?
+
+
+
+real time questions
+---------------------------------
+1) how will you give estimation for the tickets assigned to you on what basis you give?
+
+> estimation is given on basis of complextiy of user story ,based on the number of testcases derive from the user story ,it might take hours and days.
+
+
+2)tommorow is your, today your onsite cooridinator(lead) told you you missed one functionality.then what will be your reply to him and QA manager.?
+
+>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

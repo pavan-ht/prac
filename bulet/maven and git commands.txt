@@ -1,0 +1,81 @@
+
+ru nning test using pom.xml
+---------------------------
+once we add test.xml file to maven sure fire plugin and maven compiler plugin in pom.xml then run as maven test.
+
+running in command prompt
+---------------------------
+open cmd in windows 
+cd project _location
+
+and navigate to project location then we just need to type mvn test commands it will run the in coomand prompt. 
+to get files n the project type dir command.
+
+
+running test using bat file (batch file)
+-------------------------------------------
+create run.bat file in project location
+then edit using notepad 
+
+then type commands
+
+cd projectlaocation
+
+mvn test
+
+it will run in single click using runnning run.bat file. 
+
+GIT AND GIT HUB
+------------------------
+git = local repository
+
+git hub =remote repository
+
+cms= configration mangement system
+vcs = version control system.
+
+commit - commiting code local repo.
+and commit to remote repo.
+
+
+commands
+-------------------
+
+git init ---- create new empty repository......
+
+git config--globaluser.name"yourname"
+
+git config--globaluser.email"your email"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
